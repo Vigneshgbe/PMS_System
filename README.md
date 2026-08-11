@@ -472,7 +472,7 @@ For support, please:
 
 ## ⭐ Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=Vigneshgbe/Project_Management_System&type=Date)](https://star-history.com/Vigneshgbe/Project_Management_System&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=Vigneshgbe/PMS_System&type=Date)](https://star-history.com/Vigneshgbe/PMS_System&Date)
 
 ---
 
